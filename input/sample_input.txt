@@ -1,0 +1,26 @@
+### this is for the number of process and their properties
+# as an input sample we use 4 processes and every processes has their process id arival time and burst time
+PID             Arrival Time          Burst Time
+1                   0                      5
+2                   1                      3
+3                   2                      8
+4                   3                      6
+
+## this is for the bamkers Algorithm of allocation matrix maximum need matrix and the available Vector for the number of resources and the number of process
+# Allocation Matrix placeholders: Alloc P1 R1, Alloc P1 R2, Alloc P1 R3, ...
+[ALLOCATION]
+0,1,0
+2,0,0
+3,0,2
+2,1,1
+
+# Max Need Matrix placeholders: Max P1 R1, Max P2 R3, ...
+[MAX]
+7,5,3
+3,2,2
+9,0,2
+2,2,2
+
+# Available Vector placeholders: Avail R1, Avail R2, Avail R3
+[AVAILABLE]
+3,3,2
