@@ -1,6 +1,29 @@
+       
+       BAHIR DAR UNIVERSITY  
+
+     BAHIR DAR INSTITUTE OF TECHNOLOGY                                                              
+         FACULTY OF COMPUTING         
+
+  Course:          operattingsystem
+
+             Group Assignment 
+             
+Group members                     ID                                                              
+GETANEW TILAHUN          .................BDU1601593                                               HABTAMU GENET            .................BDU1601645                                             HAYMANOT YABIBAL         .................BDU1601729                                               HELEN KINDU              .................BDU1601736                                            HIBRU YITAYEW            .................BDU1601769                                            LIDIA DESALEGN           .................BDU1601923                                              MAEREG ARKSIE            .................BDU1601944
+NEBYU ESUBALEW           .................BDU1602265
+               
+                                       Submitted to   Lec.  alemitu                     
+                                       Submission Date: 24/08/18 EC 
+
+Bairdar, ethiopia
+         
+
+
+
+
 # CPU Scheduling Assignment
 
-This project implements classic CPU scheduling algorithms and Banker's Algorithm in Python. It is designed to mirror an earlier JavaScript simulator: generated process fields, matrix-style resource inputs, validation before running, one `runAll()`-style execution path, and structured output.
+This project implements classic CPU scheduling algorithms and Banker's Algorithm in Python. it generated process fields, matrix-style resource inputs, validation before running, one `runAll()`-style execution path, and structured output.
 
 ## Features
 
@@ -151,3 +174,13 @@ python run_all.py
 
 
 open `output/sample_output.txt` to see FCFS, SJF, SRTF, Round Robin, and Banker's Algorithm results generated from the sample input.
+
+## conclusion
+
+This project successfully demonstrates how fundamental CPU scheduling algorithms and the Banker's Algorithm can be implemented in Python in a structured, educational way.  it preserves validation rigor, matrix-style resource handling, and unified execution path, while producing clear, text-based outputs suitable for study.
+
+The combination of FCFS, SJF, SRTF, Round Robin, and Banker's Algorithm provides a comprehensive toolkit for analyzing both process scheduling and resource allocation safety. The design emphasizes correctness, readability, and comparability, making it a valuable resource for students learning operating system concepts.
+
+In essence, the project bridges theory and practice: it shows how scheduling policies affect performance metrics, and how Banker's Algorithm ensures system safety, all within a compact, accessible Python framework.
+
+
