@@ -9,8 +9,14 @@
              Group Assignment 
              
 Group members                     ID                                                              
-GETANEW TILAHUN          .................BDU1601593                                               HABTAMU GENET            .................BDU1601645                                             HAYMANOT YABIBAL         .................BDU1601729                                               HELEN KINDU              .................BDU1601736                                            HIBRU YITAYEW            .................BDU1601769                                            LIDIA DESALEGN           .................BDU1601923                                              MAEREG ARKSIE            .................BDU1601944
-NEBYU ESUBALEW           .................BDU1602265
+GETANEW TILAHUN          .................BDU1601593
+HABTAMU GENET            .................BDU1601645
+HAYMANOT YABIBAL         .................BDU1601729 
+HELEN KINDU              .................BDU1601736 
+HIBRU YITAYEW            .................BDU1601769
+GEBREKIDAN ABAY          .................BDU1601545
+GEBREMESKEL KEFLEMESKEL   ................BDU1601548
+GETACHER KIFILIE          ................BDU1601567
                
                                        Submitted to   Lec.  alemitu                     
                                        Submission Date: 24/08/18 EC 
