@@ -8,14 +8,22 @@
 
              Group Assignment 
              
-Group members                     ID                                                              
+Group members                     ID 
+
 GETANEW TILAHUN          .................BDU1601593
+
 HABTAMU GENET            .................BDU1601645
+
 HAYMANOT YABIBAL         .................BDU1601729 
+
 HELEN KINDU              .................BDU1601736 
+
 HIBRU YITAYEW            .................BDU1601769
+
 GEBREKIDAN ABAY          .................BDU1601545
+
 GEBREMESKEL KEFLEMESKEL   ................BDU1601548
+
 GETACHER KIFILIE          ................BDU1601567
                
                                        Submitted to   Lec.  alemitu                     
